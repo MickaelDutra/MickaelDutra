@@ -37,7 +37,6 @@ Sou um desenvolvedor front-end apaixonado por transformar dados e ideias em solu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickaeldutra&show_icons=true&theme=orange&hide_title=true&icon_color=FFA500&title_color=FFA500" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickaeldutra&layout=compact&theme=orange&hide_title=true&title_color=FFA500" />
 </div>
 
