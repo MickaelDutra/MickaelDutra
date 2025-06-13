@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+interfaces+visuais;Foco+em+projetos+funcionais+e+eficientes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front-End;Apaixonado+por+interfaces+visuais;Foco+em+projetos+funcionais" />
 </p>
 
 ---
