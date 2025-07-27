@@ -19,6 +19,7 @@
 ## 🔶 Sobre mim
 
 Sou um desenvolvedor full stack com paixão por transformar ideias em sistemas completos — do banco de dados à interface.
+Atualmente atuo na área de analise de sistemas de software WMS.
 
 - 💻 Criação de aplicações web completas
 - 🧠 Foco em código limpo, funcional e reutilizável
