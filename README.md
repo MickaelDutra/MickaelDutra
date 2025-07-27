@@ -11,14 +11,16 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=480&lines=Desenvolvedor+FullStack;Foco+em+soluções+eficientes;Interfaces+modernas+e+funcionais;Back-end+integrado+e+performático" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=480&lines=Desenvolvedor+FullStack;Foco+em+solucoes+eficientes;Interfaces+modernas+e+funcionais;Back-end+integrado+e+performatico" />
 </p>
+
 
 ---
 
 ## 🔶 Sobre mim
 
 Sou um desenvolvedor full stack com paixão por transformar ideias em sistemas completos — do banco de dados à interface.
+
 Atualmente atuo na área de analise de sistemas de software WMS.
 
 - 💻 Criação de aplicações web completas
