@@ -16,7 +16,7 @@ Sou um desenvolvedor full stack com paixão por transformar ideias em sistemas c
 Já atuei na área de analise de sistemas de software WMS, onde realizei: implantações, integrações e correções de processos e funcionamento dos sistemas.
 
 Também já realizei:
-- 💻 A riação de aplicações web completas
+- 💻 A criação de aplicações web completas
 - 🧠 Criação de código limpo com foco em ser funcional e reutilizável
 - 📊 Criação de dashboards, KPIs e automações
 - 🚀 Estou em constante evolução técnica e prática
